@@ -14,6 +14,9 @@ After cloning the project,
 - To run a headless execution, use the following maven command: -> mvn test "-DheadlessMode=true"
 - Standard execution -> mvn clean install
 
+Assumption :
+
+All the test executions were executed assuming the user had already registered in the "sendsteps".
 
 Note :
 
