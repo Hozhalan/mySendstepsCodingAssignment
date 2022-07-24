@@ -11,8 +11,8 @@ You can use the following command to clone my project from GitHub: https://githu
 
 After cloning the project, 
 
-To run a headless execution, use the following maven command: -> mvn test "-DheadlessMode=true"
-Standard execution -> mvn clean install
+- To run a headless execution, use the following maven command: -> mvn test "-DheadlessMode=true"
+- Standard execution -> mvn clean install
 
 
 Note :
