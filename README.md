@@ -6,7 +6,7 @@ The framework - BDD
 
 Eexecution Step
 
-You can use the following command to clone my project from GitHub: https://github.com/Hozhalan/mySendstepsCodingAssignment.git
+ - You can use the following command to clone my project from GitHub: https://github.com/Hozhalan/mySendstepsCodingAssignment.git
 
 
 After cloning the project, 
