@@ -4,8 +4,7 @@ This project was developed using Java, Maven, Cucumber, junit, and Selenium.
 
 The framework - BDD
 
-
-execution Step
+Eexecution Step
 
 You can use the following command to clone my project from GitHub: https://github.com/Hozhalan/mySendstepsCodingAssignment.git
 
